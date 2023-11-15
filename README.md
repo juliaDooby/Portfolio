@@ -6,12 +6,12 @@ This project showcases my skills, projects, and experiences as a web developer.
 
 ### Weblink:  [juliaDooby Portfolio](https://juliadooby.github.io/Portfolio/) 
 
-## Introduction:
+## Introduction
 
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. 
 It provides an overview of my background, displays my projects, and offers a way to contact me.
 
-## Features:
+## Features
 
 * About Me: An overview of my background, skills, and experiences.
 * Projects: A collection of my notable projects with descriptions, screenshots, and links.
@@ -19,7 +19,7 @@ It provides an overview of my background, displays my projects, and offers a way
 * Resume: A link to download my resume.
 * Contact: A form to send me messages or inquiries.
 
-## Technologies Used:
+## Technologies Used
 
 * React.js: A JavaScript library for building user interfaces.
 * HTML5 & CSS3: Markup and styling languages for building web pages.
