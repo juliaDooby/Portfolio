@@ -2,9 +2,9 @@
 ## 🏰 My Portfolio 
 
 ## Welcome to my portfolio! 
-💼 This project showcases my skills, projects, and experiences as a web developer.
+This project showcases my skills, projects, and experiences as a web developer.
 
-### 💻 Weblink:  [juliaDooby Portfolio](https://juliadooby.github.io/Portfolio/) 
+### Weblink:  [juliaDooby Portfolio](https://juliadooby.github.io/Portfolio/) 
 
 ## Introduction
 
