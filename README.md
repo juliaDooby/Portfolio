@@ -7,7 +7,7 @@
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub-Pages](https://img.shields.io/badge/github-pages-%5ab344.svg?style=for-the-badge&logo=github-pages&logoColor=white)
+![GitHub-Pages](https://img.shields.io/badge/githubPages-%5ab344.svg?style=for-the-badge&logo=githubPages&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ## Welcome to my portfolio! 
