@@ -1,6 +1,8 @@
 
 ## 🏰 My Portfolio 
 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -10,7 +12,7 @@
 ![GitHub Pages](https://img.shields.io/badge/github-pages-%5AB344.svg?style=for-the-badge&logo=github-pages&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-## Welcome to my ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ! 
+## Welcome to my Portfolio ! 
 This project showcases my skills, projects, and experiences as a web developer.
 
 ### Weblink:  [juliaDooby Portfolio](https://juliadooby.github.io/Portfolio/) 
