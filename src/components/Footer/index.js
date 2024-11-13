@@ -109,7 +109,7 @@ function Footer() {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2019 - 2023 miroshnichenko.com web development</Copyright>
+        <Copyright>&copy; 2019 - 2024 miroshnichenko.com web development</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

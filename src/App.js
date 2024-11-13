@@ -26,31 +26,29 @@ const Wrapper = styled.div`
     linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%);
   width: 100%;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 30% 98%, 0 100%);
-`
+`;
 
 function App() {
-    const [darkMode, setDarkMode] = useState(true);
+  const [darkMode, setDarkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
-   console.log(openModal)
+  console.log(openModal);
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Router>
         <Navbar />
         <Body>
-          <HeroSection/>
+          <HeroSection />
           <Wrapper>
             <Skills />
             <Experience />
           </Wrapper>
-            <Projects openModal={openModal} setOpenModal={setOpenModal} />
+          <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
-             <Contact />
+            <Contact />
           </Wrapper>
-            <Footer />
-             {openModal.state &&
-            <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
-          }
+          <Footer />
+          {openModal.state && <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />}
         </Body>
       </Router>
     </ThemeProvider>
