@@ -9,7 +9,7 @@ export const Bio = {
   description:
     'I am a true motivated developer with a passion for creating innovative and effective solutions. My motivation comes from my love of programming and constant exploration of new technologies.  Using my knowledge and development skills, I take every task as a challenge and always strive to achieve the highest quality code.',
   github: 'https://github.com/juliaDooby',
-  resume: 'https://hh.ru/resume/cb5e5bd0ff0bf17b370039ed1f495a4f4e7a4e?hhtmFrom=resume_list',
+  resume: 'https://hh.ru/resume/eef05344ff0e31871f0039ed1f453551483930',
   linkedin: 'https://www.linkedin.com/in/juliadooby',
   // headhunter: 'https://',
   // twitter: 'https://twitter.com/RishavChanda',
