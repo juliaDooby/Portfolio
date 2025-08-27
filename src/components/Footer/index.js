@@ -93,23 +93,23 @@ function Footer() {
           <NavLink href="#skills">Skills</NavLink>
           <NavLink href="#experience">Experience</NavLink>
           <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          {/* <NavLink href="#education">Education</NavLink> */}
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display">
-            <FacebookIcon />
+            {/* <FacebookIcon /> */}
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.twitter} target="display">
-            <TwitterIcon />
+            {/* <TwitterIcon /> */}
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display">
-            <InstagramIcon />
+            {/* <InstagramIcon /> */}
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2019 - 2024 miroshnichenko.com web development</Copyright>
+        <Copyright>&copy; 2019 - 2025 juliadooby web development</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
