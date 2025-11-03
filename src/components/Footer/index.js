@@ -109,10 +109,11 @@ function Footer() {
             {/* <InstagramIcon /> */}
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2019 - 2025 juliadooby web development</Copyright>
+        <Copyright>&copy; 2019 - 2026 juliadooby web development</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
 }
 
 export default Footer;
+
