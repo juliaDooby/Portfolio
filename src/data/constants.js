@@ -2,6 +2,7 @@ export const Bio = {
   name: 'Julia Dooby',
   roles: [
     // 'React Frontend-Разработчик',
+    'Fullstack Developer',
     'React Frontend Developer',
     'React Js Developer',
     'Web Js Developer',
@@ -259,7 +260,7 @@ export const experiences = [
   {
     id: 0,
     img: 'https://github.com/juliaDooby/Clideo/blob/main/assets/images/skill-icons/prod-comp.jpeg?raw=true',
-    role: 'ReactJS Frontend developer',
+    role: 'Fullstack-developer',
     company: 'Dilligenforce Technology',
     date: 'June 2021 — Present',
     desc: `
@@ -267,27 +268,21 @@ A product company that develops websites and applications for clients from Big T
 ·······················································································································································································
 A digital real estate platform for the real estate business: a client website for users and an integrated administrative management system (CRM panel) for internal work with clients, applications, facilities and analytics for the housing market. 
 ·······················································································································································································
-Worked on a website and a mobile application for real estate agents with 500,000 audience per month in a product team of 15+ people
+Worked on a website and a mobile application for real estate agents with 500,000 audience per month in the cross-fullstack product team of 8+ people
 ·······················································································································································································
 Progress: 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⏎
-─ Developed an algorithm for organizing real estate displays and generating agency reports with filtering, sorting and logic for displaying generated lists of objects by parameters
+─ Developed an algorithm for organizing real estate displays and generating agency reports with filtering, sorting, and object display logic
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Expanded the functionality of the task module with the ability to create, archive applications, upload documents and communicate with agents through the interface 
+─ Expanded the tasks module: added the creation and archiving of applications, uploading documents and communicating with agents through the interface
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Set up client logic for evaluating video reviews, saving objects to favorites, and creating personal collections for agents 
+─ Set up client logic for evaluating video reviews, saving objects to favorites, and creating personal collections
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Optimized and maintained the subscription payment module for agents and partners 
+─ Optimized and maintained the subscription payment module; implemented authorization via JWT with secure requests and token updates
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Contributed to the development of the product strategy, offering UX improvements and features based on feedback 
+─ Carried out refactoring of components and hooks, improved the readability and reusability of the code, documented the architecture of the project
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Carried out refactoring of components and hooks, improving the readability and reusability of the code; documented the project structure and key modules 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Set up client authorization via JWT: implemented token storage and updating, secure API requests. It accompanied the features of authorization, registration, and user logout. 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Provided code coverage with tests (unit, E2E, snapshot) and implemented testing using Jest, RTL and Cypress to improve application reliability 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-─ Set up CI/CD pipelines to automate the processes of building and deploying an application
+─ Set up CI/CD pipelines and a testing system (unit, E2E, snapshot) using Jest, RTL and Cypress to increase the stability of releases
 ·······················································································································································································`,
     skills: [
       ' React',
@@ -322,6 +317,7 @@ Progress:
       ' PostgreSQL',
     ],
   },
+  /*
   {
     id: 1,
     img: 'https://github.com/juliaDooby/Clideo/blob/main/assets/images/skill-icons/oursource.JPG?raw=true',
@@ -361,7 +357,7 @@ Progress:
       ' Webpack',
     ],
   },
-];
+*/]; 
 
 export const projects = [
   {
